@@ -1,0 +1,21 @@
+.nav-link{
+    color: white !important
+}
+.navbar-expand-lg .navbar-light {
+    display: flex!important;
+    justify-content: space-around;
+    flex-basis: auto;
+    }
+
+  h1{
+      color: orange;
+  }
+  .jumbotron{
+    padding: 5em inherit;
+  }
+
+  
+  .synai{
+      position: relative;
+      left: 100px;
+  }
